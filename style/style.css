@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Open + Sans:300, 400, 800");
-/* @import url('https://fonts.googleapis.com/css?family=Open + Sans:300, 400, 800'); */
 *,
 *:before,
 *:after {
@@ -23,8 +21,6 @@ body {
   margin: auto;
   text-align: center;
   position: relative;
-  /* // border: 2px solid grey; */
-  /*font size of current element i.e h1*/
 }
 
 .container h1 {
